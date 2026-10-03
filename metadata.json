@@ -1,0 +1,6 @@
+{
+  "name": "Quantiva",
+  "description": "Quantiva - Your AI Data Analyst: Understand Excel & CSV data, discover trends & anomalies, chat with your dataset, and generate business reports with evidence-backed insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
